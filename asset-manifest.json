@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/ghreactapp/static/css/main.1ce5b1d8.css",
-    "main.js": "/ghreactapp/static/js/main.ccabbb1a.js",
+    "main.js": "/ghreactapp/static/js/main.0338469f.js",
     "static/js/453.947c0d1a.chunk.js": "/ghreactapp/static/js/453.947c0d1a.chunk.js",
+    "static/media/bootstrap-docs.png": "/ghreactapp/static/media/bootstrap-docs.40bd7fd5fb4e49201714.png",
+    "static/media/bootstrap-themes.png": "/ghreactapp/static/media/bootstrap-themes.79439e8758b5dea25ebd.png",
+    "static/media/bootstrap-logo.svg": "/ghreactapp/static/media/bootstrap-logo.b91717f3b8ef81a7bf2e8b03a9579108.svg",
     "index.html": "/ghreactapp/index.html",
+    "static/media/bootstrap-logo-white.svg": "/ghreactapp/static/media/bootstrap-logo-white.6577cf6a950413d97ac23eab918f4a52.svg",
     "main.1ce5b1d8.css.map": "/ghreactapp/static/css/main.1ce5b1d8.css.map",
-    "main.ccabbb1a.js.map": "/ghreactapp/static/js/main.ccabbb1a.js.map",
+    "main.0338469f.js.map": "/ghreactapp/static/js/main.0338469f.js.map",
     "453.947c0d1a.chunk.js.map": "/ghreactapp/static/js/453.947c0d1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ce5b1d8.css",
-    "static/js/main.ccabbb1a.js"
+    "static/js/main.0338469f.js"
   ]
 }
